@@ -1,2 +1,2 @@
 # lyxeen.pk
-My Legzin website 
+My Lyxeen website 
